@@ -1,4 +1,4 @@
-![logo](https://github.com/bholav321/Bhola-Vishwkarma/blob/main/mern.jpg)
+![logo](https://github.com/bholav321/bholav321/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Bhola Vishwkarma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
